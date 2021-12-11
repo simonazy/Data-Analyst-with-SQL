@@ -100,4 +100,4 @@ SELECT date, revenue,
 FROM sales
 ORDER BY date;
 ```
-
+## 8. LAST_VALUE, FIRST_VALUE 
