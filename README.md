@@ -13,3 +13,11 @@ The first class is a entry level introduction to the basic use of sql. Including
 + Date and math functions
 + Processing data with T-SQL
 + Window functions
+
+
+## [Time Series Analysis in SQL Server](https://github.com/simonazy/Data-Analyst-with-SQL/tree/main/Time%20Series%20Analysis%20in%20SQL%20Server)
+
++ Work with Dates and Times
++ Converting to Dates and Times
++ Aggregating Time Series Data
++ Fraud Detection in Time Series Data
