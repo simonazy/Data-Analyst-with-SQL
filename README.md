@@ -21,3 +21,10 @@ The first class is a entry level introduction to the basic use of sql. Including
 + Converting to Dates and Times
 + Aggregating Time Series Data
 + Fraud Detection in Time Series Data
+
+### [Window Function](https://github.com/simonazy/Data-Analyst-with-SQL/tree/main/Window%20Function)
++ All key points about Window Function: `over(partition by)`, `rank()`, `dense_rank()`, `lead(), lag()`....
+
+## [Writing Functions and Stored Procedures](https://github.com/simonazy/Data-Analyst-with-SQL/tree/main/Writing%20Functions%20and%20Stored%20Procedures%20in%20SQL%20Server)
++ Perform temporal exploratory data analysis(EDA) using SQL data functions
++ Create, update, execute User-Defined Functions and Procedures
