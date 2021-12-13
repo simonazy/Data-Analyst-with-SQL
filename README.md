@@ -34,7 +34,7 @@ The first class is a entry level introduction to the basic use of sql. Including
 + Perform temporal exploratory data analysis(EDA) using SQL data functions
 + Create, update, execute User-Defined Functions and Procedures
 
-## [Improving Query Performance in SQL Server] (https://github.com/simonazy/Data-Analyst-with-SQL/tree/main/Improving%20Query%20Performance%20in%20SQL%20Server)
+## [Improving Query Performance in SQL Server](https://github.com/simonazy/Data-Analyst-with-SQL/tree/main/Improving%20Query%20Performance%20in%20SQL%20Server)
 + the order of execution
 + filter and data interrogation
 + Sub-queries
