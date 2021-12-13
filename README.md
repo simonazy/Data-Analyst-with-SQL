@@ -25,6 +25,17 @@ The first class is a entry level introduction to the basic use of sql. Including
 ### [Window Function](https://github.com/simonazy/Data-Analyst-with-SQL/tree/main/Window%20Function)
 + All key points about Window Function: `over(partition by)`, `rank()`, `dense_rank()`, `lead(), lag()`....
 
+## [Database Design](https://github.com/simonazy/Data-Analyst-with-SQL/tree/main/DataBase%20Design)
++ OLTP AND OLAP
++ Data Modeling: star & snowflake schema
++ Normalization
+
 ## [Writing Functions and Stored Procedures](https://github.com/simonazy/Data-Analyst-with-SQL/tree/main/Writing%20Functions%20and%20Stored%20Procedures%20in%20SQL%20Server)
 + Perform temporal exploratory data analysis(EDA) using SQL data functions
 + Create, update, execute User-Defined Functions and Procedures
+
+## [Improving Query Performance in SQL Server] (https://github.com/simonazy/Data-Analyst-with-SQL/tree/main/Improving%20Query%20Performance%20in%20SQL%20Server)
++ the order of execution
++ filter and data interrogation
++ Sub-queries
++ Performance tunning
