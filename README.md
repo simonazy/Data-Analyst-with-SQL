@@ -1,5 +1,16 @@
 # Data-Analyst-with-SQL
 
+![](https://img.shields.io/badge/Code-T--SQL-green)
+
+**Data Analyst With SQL** career classes from [DataCamp](https://www.datacamp.com/). 
+
+I have taken courses related to `SQL` and `Database` on campus, the reason why I took the career track classes is to **Connect the Dots...**. 
+
+This set of courses helps me to stick all the fragments about SQL and establish a complete overview. 
+
+![image](https://user-images.githubusercontent.com/56880104/145895707-9f87eacd-8b0f-41ad-80b3-8daef3b5d354.png)
+
+
 ## [Introduction to SQL Server](https://github.com/simonazy/Data-Analyst-with-SQL/tree/main/Introduction%20to%20SQL%20Server)
 The first class is a entry level introduction to the basic use of sql. Including: `SELECTION`, `WHERE`,`ORDER BY`, `GROUP BY`, `COUNTING`, `STRING`, `JOIN`, `#TMEP TABLE`, `UNION`, `DECLARE`. 
 
@@ -39,3 +50,4 @@ The first class is a entry level introduction to the basic use of sql. Including
 + filter and data interrogation
 + Sub-queries
 + Performance tunning
+
