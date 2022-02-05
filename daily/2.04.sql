@@ -89,11 +89,21 @@ where t1.max_of_dept>t2.salary
 
 
 
-#  汇总各个部门当前员工的title类型的分配数目
+##  汇总各个部门当前员工的title类型的分配数目
 select d.dept_no, d.dept_name, title, count(t.emp_no) as count from titles t 
 left join dept_emp de on t.emp_no = de.emp_no
 left join departments d on d.dept_no=de.dept_no
 --多多思考一下这里group by的逻辑（可以不要dept_no，因为no和name是一样的）
 group by d.dept_no,d.dept_name,title
 order by d.dept_no
+
+--和上面一样的思路，不同的写法，
+select d.dept_no,
+       d.dept_name,
+       t.title,
+       count(t.title)as count
+from departments d,dept_emp de,titles t
+where de.emp_no=t.emp_no
+and de.dept_no=d.dept_no
+group by d.dept_no,t.title
 
